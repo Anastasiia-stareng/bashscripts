@@ -1,5 +1,6 @@
 #!/bin/bash
 #Changes from Anastasiia
+#My next commit
 USER="root"
 PASSWORD="PASS"
 HOST="HOST"
