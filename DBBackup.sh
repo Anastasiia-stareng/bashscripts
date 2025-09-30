@@ -1,4 +1,5 @@
 #!/bin/bash
+#Changes from Anastasiia
 USER="root"
 PASSWORD="PASS"
 HOST="HOST"
